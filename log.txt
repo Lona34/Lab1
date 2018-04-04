@@ -1,0 +1,11 @@
+commit 8ba15b84d2bb0e9151b9abb98bd2cb101aa203cc (HEAD -> logging, origin/master, master)
+Author: osmani.lona@students.finki.ukim.mk <osmani.lona@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:58:35 2018 +0200
+
+    modify l1.txt
+
+commit a600bb72a414467df2dad2ae698e202fa797c010
+Author: osmani.lona@students.finki.ukim.mk <osmani.lona@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:55:39 2018 +0200
+
+    initial commit
